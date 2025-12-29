@@ -1,5 +1,12 @@
 Update 1
 
+After branch channing
+
+Update 2
+
 After bugfix
 
 update 2
+>>>>>>> main
+
+Update new
